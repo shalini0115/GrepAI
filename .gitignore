@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+uploads/*
+!uploads/.gitkeep
+chroma_data/
+.DS_Store
+
+# secrets
+app/local_secrets.py
+.env
+.env.*
+# python
+*.pyc
+# runtime data
+dump.rdb
+appendonly.aof
+# datasets (large, not committed)
+sample_logs/
+# os

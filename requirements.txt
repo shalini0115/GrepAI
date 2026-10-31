@@ -1,0 +1,13 @@
+celery==5.6.3
+chromadb==1.5.9
+fastapi==0.143.0
+httpx==0.28.1
+numpy==1.26.4
+pydantic==2.14.0
+pytest==9.1.1
+python-multipart==0.0.32
+redis==6.4.0
+requests==2.34.2
+ruff==0.17.3
+sentence-transformers==6.2.0
+uvicorn[standard]==0.52.0

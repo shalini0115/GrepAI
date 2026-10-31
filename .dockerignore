@@ -1,0 +1,8 @@
+.git
+app/local_secrets.py
+chroma_data
+uploads
+sample_logs
+__pycache__
+.pytest_cache
+.env
